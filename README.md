@@ -3,8 +3,6 @@
 ## Objective  
 The goal of Teeko is to arrange your four pieces on the board to form **Four in a row** (vertically, horizontally, or diagonally).  
 
----
-
 ## Game Rules  
 
 Teeko is played in two phases: **Placement Phase** and **Movement Phase**.  
@@ -18,11 +16,8 @@ Teeko is played in two phases: **Placement Phase** and **Movement Phase**.
 - A piece can move to any **adjacent square** (orthogonal or diagonal).  
 - Pieces cannot jump over other pieces or occupy an already-filled square.  
 
----
-
 ## Winning Conditions  
 The game ends when a player achieves **Four in a row**: Aligning their four pieces in a straight line (horizontal, vertical, or diagonal).  
 
 If neither player can achieve a winning pattern, the game continues indefinitely, testing each player's strategy and skills.  
 
----
